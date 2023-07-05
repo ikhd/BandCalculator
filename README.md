@@ -21,9 +21,13 @@ Band Calculator is an application that calculates the LTE hex code for 4G LTE ne
 
 1. **You shall to have Python In your PC** :
 
-2. **Install Requirements** : 
-  - pip install tk
-  - pip install webbrowser
+2. **Install Requirements** :
+```
+pip install tk
+```
+```
+pip install webbrowser
+```
 
 3. **Run band.py** :
   - py band.py
